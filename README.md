@@ -45,6 +45,6 @@ OUTREACH
 TECHNICAL
 SKILLS 
 
-              • Programming Languages: Basics OF HTML,CSS
+              • other skills: Basics OF HTML,CSS
               • Software and Simulators: MS office, Auto Cad
               • Os Preference: Windows, Linux/Unix	     
